@@ -1,0 +1,42 @@
+# Final-Project
+
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>Ranks</title>
+		<link href ="BurnBlue.css" type="text/css" rel="stylesheet">
+	</head>
+	<body background="https://cdn.vox-cdn.com/thumbor/umRWGLBu-TsbPYOF4olqWb7gSjM=/0x0:3840x2160/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/54734955/overwatch-4k.0.0.jpg">
+		<div> 
+		   <h1>Competitive Mode</h1>
+		   <h2>Bronze</h2>
+		   <br>
+		   <img src="https://vignette.wikia.nocookie.net/overwatch/images/8/8f/Competitive_Bronze_Icon.png/revision/latest?cb=20161122023401">
+		   <br>
+           <p>Silver</p>
+		   <br>
+		   <img src="https://vignette.wikia.nocookie.net/overwatch/images/f/fe/Competitive_Silver_Icon.png/revision/latest?cb=20161122023740">
+		   <br>
+  	       <h3>Gold</h3>
+		   <br>
+		   <img src="https://vignette.wikia.nocookie.net/overwatch/images/4/44/Competitive_Gold_Icon.png/revision/latest?cb=20161122023755">
+		   <br>
+		   <h4>Platinum</h4>
+		   <br>
+		   <img src="https://i.ebayimg.com/images/g/88oAAOSwVRNZgIjW/s-l300.jpg">
+		   <br>
+		   <h5>Diamond</h5>
+		   <br>
+		   <img src="https://vignette.wikia.nocookie.net/overwatch/images/3/3f/Competitive_Diamond_Icon.png/revision/latest?cb=20161122023818">
+		   <br>
+		   <h2>Master</h2>
+		   <br>
+		   <img src="https://vignette.wikia.nocookie.net/overwatch/images/5/50/Competitive_Master_Icon.png/revision/latest?cb=20161122023832">
+		   <br>
+		   <h6>GrandMaster</h6>
+		   <br>
+		   <img src="https://vignette.wikia.nocookie.net/overwatch/images/c/cc/Competitive_Grandmaster_Icon.png/revision/latest?cb=20161122023845">
+		</div>
+		<div class="tiledBackground">
+		</div>
+	
