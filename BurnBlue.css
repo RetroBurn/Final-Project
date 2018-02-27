@@ -1,3 +1,8 @@
+body{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
 h1{
 	color: #FFDF00;
 	font-family: Ultra;
