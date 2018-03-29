@@ -1,4 +1,12 @@
 body{
 	background-repeat: no-repeat;
-    background-attachment: fixed;
+	background-attachment: fixed;
+	margin-top: 188px;
+    	margin-bottom: 300px;
+    	margin-right: 350px;
+    	margin-left: 450px;
+}
+
+label{
+	color: white;
 }
