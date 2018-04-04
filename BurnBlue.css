@@ -69,3 +69,11 @@ h6{
 	font-weight: bold;
 	color: white;
 }
+
+p{
+	margin-left: 250px;
+	margin-bottom: -40px;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+}
