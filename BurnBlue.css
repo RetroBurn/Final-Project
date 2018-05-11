@@ -4,6 +4,27 @@ body{
 	background-size: contain;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li {
+    float: left;
+}
+
 h1{
 	color: #FFDF00;
 	font-family: Ultra;
@@ -88,6 +109,10 @@ p{
 	padding-right: 20px;
 }
 
-div{
-	float: right;
+div.RankInfo{
+	float:right;
+}
+
+div.Float{
+	float:left;
 }
